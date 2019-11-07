@@ -12,7 +12,7 @@ def toadstool
 end
 
 
-def any_phrase(catch_phrase)
+def any_phrase(phrase)
   phrase
 end
   
