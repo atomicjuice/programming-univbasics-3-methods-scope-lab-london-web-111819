@@ -15,4 +15,3 @@ end
 def any_phrase(phrase)
   phrase
 end
-  
